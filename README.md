@@ -4,4 +4,6 @@ Cloud Trivia Showdown 🚀
 React | AWS | Devops
 <br/>
 By yeshwanth and Rakshay
+<br/>
+-----------------
 
