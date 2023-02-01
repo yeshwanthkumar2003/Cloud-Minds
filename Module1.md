@@ -18,14 +18,14 @@
 	<p>On the <b>Create environment</b> page, configure your environment as desired. You can choose the <b>name</b> and <b>description</b> for your environment, as well as the <b>instance type</b>, and environment settings. Make sure to choose the EC2 instance type that meets your requirements. Once you have made your selections, click on the <b>Create environment</b> button to proceed.</p>
 	<h2>Step 4: Wait for the Environment to be created</h2>
 	<p>It may take a few minutes for the environment to be created. You will be redirected to the <b>Cloud9 IDE</b> once the environment is ready. </p>
-	<h2>Step 5: Start using the Environment</h2>
+	<h2>Step 5: Download the Application by paste the Commands on Cloud9 terminal</h2>
 	<p>Your Cloud9 environment is now ready to use. You can start coding, running commands, and deploying applications right from the <b>Cloud9 IDE</b>. Enjoy!</p>
 
-	<h3>Download the application through the <b>AWS Cloud9 terminal</b> by running the following command</h3>
+	<h3>Open the <b>AWS Cloud9 terminal</b> by running the following command</h3>
 	"""
 	wget https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/DEV-AWS-MO-DevOps-C1/downloads/trivia-app.zip -O ~/trivia-app.zip
 	unzip -o ~/trivia-app.zip
-	"""
+
 	
-	</body>
+</body>
 </html>
