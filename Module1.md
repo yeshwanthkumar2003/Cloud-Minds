@@ -19,12 +19,10 @@
 	<h2>Step 4: Wait for the Environment to be created</h2>
 	<p>It may take a few minutes for the environment to be created. You will be redirected to the <b>Cloud9 IDE</b> once the environment is ready. </p>
 	<h2>Step 5: Download the Application by paste the Commands on Cloud9 terminal</h2>
-	<p>Your Cloud9 environment is now ready to use. You can start coding, running commands, and deploying applications right from the <b>Cloud9 IDE</b>. Enjoy!</p>
-
-	<h3>Open the <b>AWS Cloud9 terminal</b> by running the following command</h3>
+	<p>Your Cloud9 environment is now ready to use. You can start coding, running commands, and deploying applications right from the <b>Cloud9 IDE</b>. Enjoy!</p><h3>Open the <b>AWS Cloud9 terminal</b> by running the following command</h3>
 	<br>
 	
-	# wget https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/DEV-AWS-MO-DevOps-C1/downloads/trivia-app.zip -O ~/trivia-app.zip
+	  wget https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/DEV-AWS-MO-DevOps-C1/downloads/trivia-app.zip -O ~/trivia-app.zip
 	  unzip -o ~/trivia-app.zip
 
 	
