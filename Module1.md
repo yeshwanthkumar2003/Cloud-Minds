@@ -7,6 +7,12 @@
 	<h1>Creating an AWS Cloud9 Environment</h1>
 	<p>This guide provides instructions for creating an AWS Cloud9 development environment in Amazon Web Services (AWS).</p>
 	<h2>Prerequisites</h2>
+	<ol>AWS Cloud9</ol>
+		<ol>AWS EC2</ol>
+		<ol>AWS s3</ol>
+		<ol>AWS Codecommit</ol>
+		<ol>AWS Dnamodb</ol>
+		<ol>Pytest</ol>
 	<ul>
 		<li><b>An AWS account</b></li>
 	</ul>
