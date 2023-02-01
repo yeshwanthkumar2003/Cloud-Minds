@@ -22,9 +22,9 @@
 	<p>Your Cloud9 environment is now ready to use. You can start coding, running commands, and deploying applications right from the <b>Cloud9 IDE</b>. Enjoy!</p>
 
 	<h3>Open the <b>AWS Cloud9 terminal</b> by running the following command</h3>
-	"""
-	wget https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/DEV-AWS-MO-DevOps-C1/downloads/trivia-app.zip -O ~/trivia-app.zip
-	unzip -o ~/trivia-app.zip
+	
+	""" wget https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/DEV-AWS-MO-DevOps-C1/downloads/trivia-app.zip -O ~/trivia-app.zip
+	    unzip -o ~/trivia-app.zip
 
 	
 </body>
