@@ -31,6 +31,7 @@
 	  wget https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/DEV-AWS-MO-DevOps-C1/downloads/trivia-app.zip -O ~/trivia-app.zip
 	  unzip -o ~/trivia-app.zip
 
-	<p>now check the EC2 instance is created and running</h1>
+	
+<p>now check the EC2 instance is created and running</p>
 </body>
 </html>
