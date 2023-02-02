@@ -14,7 +14,6 @@
 		<ul>AWS Dnamodb</ul>
 		<ul>Pytest</ul>
 	<ul>
-		<li><b>An AWS account</b></li>
 	</ul>
 	<h2>Step 1: Log in to the AWS Management Console</h2>
 	<p>Log in to the <b>AWS Management Console</b> using your AWS account credentials. If you don't have an AWS account, you can sign up for one on the <a href="https://aws.amazon.com/">AWS website</a>.</p>
