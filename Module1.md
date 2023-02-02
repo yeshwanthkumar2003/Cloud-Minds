@@ -15,6 +15,7 @@
 		<ul>Pytest</ul>
 	<ul>
 	</ul>
+	<h1>Part-1 Setting up AWS Cloud9 Enviroinment</h1>
 	<h2>Step 1: Log in to the AWS Management Console</h2>
 	<p>Log in to the <b>AWS Management Console</b> using your AWS account credentials. If you don't have an AWS account, you can sign up for one on the <a href="https://aws.amazon.com/">AWS website</a>.</p>
 	<h2>Step 2: Create a new Cloud9 Environment</h2>
@@ -30,6 +31,6 @@
 	  wget https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/DEV-AWS-MO-DevOps-C1/downloads/trivia-app.zip -O ~/trivia-app.zip
 	  unzip -o ~/trivia-app.zip
 
-	
+	<p>now check the EC2 instance is created and running</h1>
 </body>
 </html>
