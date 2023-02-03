@@ -1,4 +1,4 @@
-<h1 id="exercise-creating-a-pipeline">Exercise: Creating a Pipeline</h1>
+<h1 id="exercise-creating-a-pipeline">Module-4: Creating a Pipeline</h1>
 <p>In this exercise, you will first start by using AWS CodePipeline to create a new pipeline. You will create a new feature branch in your repository and edit some application code. You will then commit the changes to your feature branch and merge the feature branch into your main branch.</p>
 <h2 id="task-1-creating-a-pipeline">Task 1: Creating a pipeline</h2>
 <p>In this task, you use AWS CodePipeline to create a pipeline.</p>
@@ -103,7 +103,6 @@ modified:   back-end-python/tests/unit/test_handler.py</code></pre></li>
 <li><p>View the pipeline details by opening <strong>trivia-pipeline</strong>. In the <strong>Source</strong> section, you should see the new commit: <em>Source: new bonus score feature</em></p></li>
 <li><p>Review the <strong>Build</strong> section. The recently merged commit on the <code>main</code> branch triggered a pipeline build.</p>
 <figure>
-<img src="images/codepipeline-build.png" alt="pipeline_build" /><figcaption aria-hidden="true">pipeline_build</figcaption>
 </figure></li>
 <li><p>Switch back to the <strong>AWS Cloud9</strong> tab.</p></li>
 <li><p>The new features you committed have been merged to <code>main</code>. Update the main branch locally by running the following commands:</p>
@@ -149,3 +148,5 @@ modified:   back-end-python/tests/unit/test_handler.py</code></pre></li>
 <li>Delete the <strong>trivia-game</strong> environment.</li>
 </ul></li>
 </ol>
+<h6>Share the tutorials to your Cloud Friends and Start building project🚀</h6>
+<h6>Project done with 💓 by <em>Yeshwanth</em></h6>
