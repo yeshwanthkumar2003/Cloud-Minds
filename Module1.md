@@ -4,16 +4,15 @@
 	
 </head>
 <body>
-	<h1>Aetting up AWS Resources</h1>
+	<h1>Setting up AWS Resources</h1>
 	<p>This guide provides instructions for creating an development environment in Amazon Web Services (AWS).</p>
 	<h2>Prerequisites</h2>
-	<ol>AWS Cloud9</ol>
-		<ul>AWS EC2</ul>
-		<ul>AWS s3</ul>
-		<ul>AWS Codecommit</ul>
-		<ul>AWS Dynamodb</ul>
-		
-	<ul>
+		<ul>
+		<ol>AWS Cloud9</ol>
+		<ol>AWS EC2</ol>
+		<ol>AWS s3</ol>
+		<ol>AWS Codecommit</ol>
+		<ol>AWS Dynamodb</ol>
 	</ul>
 	<h1>Task-1 Setting up AWS Cloud9 Enviroinment</h1>
 	<h2>Step 1: Log in to the AWS Management Console</h2>
