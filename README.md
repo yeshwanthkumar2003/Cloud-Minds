@@ -1,7 +1,11 @@
 # Cloud-Minds
 Cloud Trivia Showdown 🚀
 <br />
-https://user-images.githubusercontent.com/94180456/216531078-de67ee97-af75-4e2d-8521-e27d3155a1f4.mp4
+<img src="https://user-images.githubusercontent.com/94180456/216531905-5b3e65d0-f487-4806-aca0-27c8b9197738.jpg" height="500" width="300" >
+
+
+
+
 React | AWS | Devops
 <br/>
 By yeshwanth and Rakshay
