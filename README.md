@@ -1,5 +1,6 @@
 # Cloud-Minds
 This project utilizes the cutting-edge tech stacks of React, AWS, pytest, and DevOps to effectively demonstrate and implement best practices in code development, building, and testing
+<br/>
 Cloud Trivia Showdown 🚀
 <br />
 <img src="https://user-images.githubusercontent.com/94180456/216531905-5b3e65d0-f487-4806-aca0-27c8b9197738.jpg" height="500" width="300" >
