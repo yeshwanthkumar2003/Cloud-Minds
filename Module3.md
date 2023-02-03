@@ -62,5 +62,5 @@
 <li><p>Choose the <strong>Reports</strong> tab.</p></li>
 <li><p>View the <em>Pass rate</em> by selecting the <strong>Test</strong> report, or the <em>Line coverage</em> and <em>Branch coverage</em> by selecting the <strong>Code coverage</strong> report.</p></li>
 </ol>
-<h6>Share the repo to your Cloud Friends and Start building project🚀</h6>
+<h6>Share the repo to your Cloud Architects and Start building project🚀</h6>
 <h6>Project done with 💓 by <em>Yeshwanth</em></h6>
