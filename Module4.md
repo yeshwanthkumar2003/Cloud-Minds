@@ -148,5 +148,5 @@ modified:   back-end-python/tests/unit/test_handler.py</code></pre></li>
 <li>Delete the <strong>trivia-game</strong> environment.</li>
 </ul></li>
 </ol>
-<h6>Share the tutorials to your Cloud Friends and Start building project🚀</h6>
+<h6>Share the repo to your Cloud Friends and Start building project🚀</h6>
 <h6>Project done with 💓 by <em>Yeshwanth</em></h6>
