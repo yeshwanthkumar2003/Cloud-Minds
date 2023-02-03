@@ -66,3 +66,5 @@ Commit changes through the AWS CLI
 <span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> commit <span class="at">-m</span> <span class="st">&quot;Scores now increment by 20&quot;</span></span>
 <span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> push origin main</span></code></pre></div></li>
 </ol>
+<h6>Share the repo to your Cloud Architects and Start building project🚀</h6>
+<h6>Project done with 💓 by <em>Yeshwanth</em></h6>
