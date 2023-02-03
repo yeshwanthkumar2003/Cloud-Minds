@@ -14,7 +14,7 @@
 		<ol>AWS Codecommit</ol>
 		<ol>AWS Dynamodb</ol>
 	</ul>
-	<h1>Task-1 Setting up AWS Cloud9 Enviroinment</h1>
+	<h1>Module-1 Setting up AWS Cloud9 Enviroinment</h1>
 	<h2>Step 1: Log in to the AWS Management Console</h2>
 	<p>Log in to the <b>AWS Management Console</b> using your AWS account credentials. If you don't have an AWS account, you can sign up for one on the <a href="https://aws.amazon.com/">AWS website</a>.</p>
 	<h2>Step 2: Create a new Cloud9 Environment</h2>
