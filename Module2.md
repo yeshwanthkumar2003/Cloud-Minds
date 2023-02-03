@@ -54,6 +54,8 @@ _________________________________ test_trivia_calculate_scores_correct _________
 <li><p>In the <strong>Source Control</strong> pane, at the right side of the <strong>trivia-app</strong> heading, left-click paper scroll icon and choose <strong>Commit</strong>. Choose <strong>Yes</strong>.</p>
 <li><p>Under the <strong>trivia-app</strong> heading, enter the following commit message and press Enter: <code>Scores now increment by 20</code></p>
 <li><p>In the <strong>trivia-app</strong> heading, left-click the paper scroll icon and choose <strong>Push to…</strong>. When prompted to select a remote, choose the remote named <strong>origin</strong>.</p></li>
+<h6>Share the repo to your Cloud Architects and Start building project🚀</h6>
+<h6>Project done with 💓 by <em>Yeshwanth</em></h6>
 </ol>
 <details>
 <summary>
@@ -66,5 +68,4 @@ Commit changes through the AWS CLI
 <span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> commit <span class="at">-m</span> <span class="st">&quot;Scores now increment by 20&quot;</span></span>
 <span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> push origin main</span></code></pre></div></li>
 </ol>
-<h6>Share the repo to your Cloud Architects and Start building project🚀</h6>
-<h6>Project done with 💓 by <em>Yeshwanth</em></h6>
+
