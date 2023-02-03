@@ -1,4 +1,4 @@
-<h1 id="exercise-using-aws-codebuild">Exercise: Using AWS CodeBuild</h1>
+<h1 id="exercise-using-aws-codebuild">Module-3: Using AWS CodeBuild</h1>
 <p>In this exercise, you will be updating the application with a buildspec file, and using CodeBuild to test the application. The buildspec file contains the same tests you performed with the local build: linting with pylint, and unit tests with pytest. You will also use CodeBuild to run unit tests against the application, and then view the log output.</p>
 <h2 id="task-1-creating-a-buildspec-file">Task 1: Creating a buildspec file</h2>
 <p>In this task, you create a <em>buildspec</em> file, which CodeBuild uses to run a build. You will then check these changes into your repository.</p>
@@ -62,3 +62,5 @@
 <li><p>Choose the <strong>Reports</strong> tab.</p></li>
 <li><p>View the <em>Pass rate</em> by selecting the <strong>Test</strong> report, or the <em>Line coverage</em> and <em>Branch coverage</em> by selecting the <strong>Code coverage</strong> report.</p></li>
 </ol>
+<h6>Share the repo to your Cloud Friends and Start building project🚀</h6>
+<h6>Project done with 💓 by <em>Yeshwanth</em></h6>
