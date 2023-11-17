@@ -6,6 +6,7 @@ Cloud Trivia Showdown 🚀
 <img src="https://user-images.githubusercontent.com/94180456/216531905-5b3e65d0-f487-4806-aca0-27c8b9197738.jpg" height="500" width="300" >
 
 
+![cloudminds (2)](https://github.com/yeshwanthkumar2003/Cloud-Minds/assets/94180456/c0862c3a-e303-4caa-aa8b-fcb9ce833764)
 
 
 React | AWS | Devops
